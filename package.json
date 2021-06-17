@@ -1,0 +1,16 @@
+{
+  "name": "pcsprediction",
+  "homepage": "",
+  "main": "./abi.js",
+  "version": "0.1.0",
+  "description": "Pancakeswap Prediction module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AngryBytesTech/pcsprediction.git"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "author": "Krzysztof Kotkowicz <krzysztof@angrybytes.tech>",
+  "license": "MIT"
+}
